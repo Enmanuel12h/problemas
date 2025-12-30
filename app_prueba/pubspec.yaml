@@ -1,0 +1,21 @@
+name: app_prueba
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  [cite_start]sdk: '>=3.1.0 <4.0.0' [cite: 589]
+
+dependencies:
+  flutter:
+    sdk: flutter
+  [cite_start]http: ^1.1.0 [cite: 255]
+  [cite_start]provider: ^6.0.5 [cite: 386]
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  provider: ^6.0.5
